@@ -41,7 +41,7 @@ const spec = {
     "layer": [
         {
             "data": {
-                "url": "https://raw.githubusercontent.com/Xuancheng-Alan/FIT3179/refs/heads/main/VIC_NSW_MAP.json",
+                "url": "https://raw.githubusercontent.com/Xuancheng-Alan/FIT3179/refs/heads/main/Datasets/VIC_NSW_MAP.json",
                 "format": {
                     "type": "topojson",
                     "feature": "VIC_NSW_MAP"
@@ -61,7 +61,7 @@ const spec = {
         },
         {
             "data": {
-                "url": "https://raw.githubusercontent.com/Xuancheng-Alan/FIT3179/refs/heads/main/Existing_Green_Assets.json",
+                "url": "https://raw.githubusercontent.com/Xuancheng-Alan/FIT3179/refs/heads/main/Datasets/Existing_Green_Assets.json",
                 "format": {
                     "type": "topojson",
                     "feature": "Existing_Green_Assets"
@@ -83,7 +83,7 @@ const spec = {
         },
         {
             "data": {
-                "url": "https://raw.githubusercontent.com/Xuancheng-Alan/FIT3179/refs/heads/main/VPA_Open_Space%20.json",
+                "url": "https://raw.githubusercontent.com/Xuancheng-Alan/FIT3179/refs/heads/main/Datasets/VPA_Open_Space%20.json",
                 "format": {
                     "type": "topojson",
                     "feature": "VPA_Open_Space"
@@ -158,7 +158,7 @@ const spec2 = {
             },
             "encoding": {
                 "tooltip": [
-                    {"field": "STATE_NAME", "type": "nominal", "title": "State Name"}
+                    {"field": "properties.STATE_NAME", "type": "nominal", "title": "State Name"}
                 ]
             }
         },
@@ -175,12 +175,10 @@ const spec2 = {
             },
             "encoding": {
                 "tooltip": [
-                    {"field": "LAY_NAME", "type": "quantitative", "title": "Layer Name"},
-                    {"field": "LAY_CLASS", "type": "nominal", "title": "Layer Class"},
-                    {"field": "OBJECTID", "type": "nominal", "title": "Object ID"},
-                    {"field": "LABEL", "type": "nominal", "title": "Label"},
-                    {"field": "SHAPE_STAr", "type": "quantitative", "title": "Shape Area"},
-                    {"field": "SHAPE_STLe", "type": "quantitative", "title": "Shape Length"}
+                    {"field": "properties.LAY_NAME", "type": "quantitative", "title": "Layer Name"},
+                    {"field": "properties.LAY_CLASS", "type": "nominal", "title": "Layer Class"},
+                    {"field": "properties.OBJECTID", "type": "nominal", "title": "Object ID"},
+                    {"field": "properties.LABEL", "type": "nominal", "title": "Label"}
                 ],
             }
 
