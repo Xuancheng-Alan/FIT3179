@@ -175,7 +175,6 @@ const spec2 = {
             },
             "encoding": {
                 "tooltip": [
-                    {"field": "properties.LAY_NAME", "type": "quantitative", "title": "Layer Name"},
                     {"field": "properties.LAY_CLASS", "type": "nominal", "title": "Layer Class"},
                     {"field": "properties.OBJECTID", "type": "nominal", "title": "Object ID"},
                     {"field": "properties.LABEL", "type": "nominal", "title": "Label"}
