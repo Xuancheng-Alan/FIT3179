@@ -1,4 +1,4 @@
-﻿WHO Region,ISO3,WHO Country Name,City or Locality,Year,PM2.5 (μg/m3),PM10,NO2 (μg/m3),PM25 temporal coverage (%),PM10 temporal coverage (%),NO2 temporal coverage (%),Reference,Number and type of monitoring stations,Version of the database,Status,,
+WHO Region,ISO3,CountryName,City or Locality,Year,PM2.5 (μg/m3),PM10,NO2 (μg/m3),PM25 temporal coverage (%),PM10 temporal coverage (%),NO2 temporal coverage (%),Reference,Number and type of monitoring stations,Version of the database,Status,,
 Eastern Mediterranean Region,AFG,Afghanistan,Kabul,2019,119.77,,,18,,,"U.S. Department of State, United States Environmental Protection Agency",NA,2022,,,
 European Region,ALB,Albania,Durres,2015,,17.65,26.63,,,83.96118721,European Environment Agency (downloaded in 2021),NA,2022,,,
 European Region,ALB,Albania,Durres,2016,14.32,24.56,24.78,,,87.93260474,European Environment Agency (downloaded in 2021),NA,2022,,,
@@ -2775,7 +2775,8 @@ Region of the Americas,CAN,Canada,Coquitlam,2016,,,17,,,98,Government of Canada,
 Region of the Americas,CAN,Canada,Coquitlam,2018,,,17,,,100,Government of Canada,"1 General Population  Exposure, Large Urban Area, Residential",2022,,,
 Region of the Americas,CAN,Canada,Coquitlam,2019,,,19,,,99,Government of Canada,"1 General Population  Exposure, Large Urban Area, Residential",2022,,,
 Region of the Americas,CAN,Canada,Corner Brook,2013,6,,,97,,,National Air Pollution Surveillance Network.,NA,2016,,,
-Region of the Americas,CAN,Canada,Corner Brook,2015,5.5,,4.7,94.24657534,,100,"Newfoundland and Labrador Department of Municipal Affairs and Environment
+Region of the Americas,CAN,Canada,Corner Brook,2015,5.5,,4.7,94.24657534,,100,"Newfoundland and Labrador Department of Municipal Affairs and Environment
+
 ",1 Residential,2018,,,
 Region of the Americas,CAN,Canada,Corner Brook,2016,6,,4,96,,99,Government of Canada,"1 General Population Exposure, Small Urban Area, Industrial",2022,,,
 Region of the Americas,CAN,Canada,Corner Brook,2017,7,,6,97,,99,Government of Canada,"1 General Population Exposure, Small Urban Area, Industrial",2022,,,
@@ -2932,7 +2933,8 @@ Region of the Americas,CAN,Canada,Grand Bend,2017,5,,6,99,,99,Government of Cana
 Region of the Americas,CAN,Canada,Grand Bend,2018,6,,6,96,,98,Government of Canada,"1 Regional Background, Small Urban Area, Residential",2022,,,
 Region of the Americas,CAN,Canada,Grand Bend,2019,5,,6,98,,98,Government of Canada,"1 Regional Background, Small Urban Area, Residential",2022,,,
 Region of the Americas,CAN,Canada,Grand Falls - Windsor,2013,5,,,99,,,National Air Pollution Surveillance Network.,NA,2016,,,
-Region of the Americas,CAN,Canada,Grand Falls - Windsor,2015,4.7,,1.88,85.75342466,,100,"Newfoundland and Labrador Department of Municipal Affairs and Environment
+Region of the Americas,CAN,Canada,Grand Falls - Windsor,2015,4.7,,1.88,85.75342466,,100,"Newfoundland and Labrador Department of Municipal Affairs and Environment
+
 ",1 Industrial,2018,,,
 Region of the Americas,CAN,Canada,Grand Falls-Windsor,2016,4,,2,91,,93,Government of Canada,"1 General Population Exposure, Small Urban Area, Industrial",2022,,,
 Region of the Americas,CAN,Canada,Grand Falls-Windsor,2017,5,,2,95,,95,Government of Canada,"1 General Population Exposure, Small Urban Area, Industrial",2022,,,
@@ -3102,7 +3104,8 @@ Region of the Americas,CAN,Canada,Maple Ridge,2016,,,13,,,97,Government of Canad
 Region of the Americas,CAN,Canada,Maple Ridge,2017,,,17,,,99,Government of Canada,"1 General Population  Exposure, Large Urban Area, Residential",2022,,,
 Region of the Americas,CAN,Canada,Maple Ridge,2018,,,15,,,99,Government of Canada,"1 General Population  Exposure, Large Urban Area, Residential",2022,,,
 Region of the Americas,CAN,Canada,Maple Ridge,2019,,,15,,,100,Government of Canada,"1 General Population  Exposure, Large Urban Area, Residential",2022,,,
-Region of the Americas,CAN,Canada,Marystown,2015,5.9,,1.32,95.06849315,,100,"Newfoundland and Labrador Department of Municipal Affairs and Environment
+Region of the Americas,CAN,Canada,Marystown,2015,5.9,,1.32,95.06849315,,100,"Newfoundland and Labrador Department of Municipal Affairs and Environment
+
 ",1 Residential,2018,,,
 Region of the Americas,CAN,Canada,Marystown,2016,5,,2,98,,100,Government of Canada,"1 Regional Background, Non-Urban Area, Residential",2022,,,
 Region of the Americas,CAN,Canada,Marystown,2017,7,,,95,,,Government of Canada,"1 Regional Background, Non-Urban Area, Residential",2022,,,
@@ -3138,7 +3141,8 @@ Region of the Americas,CAN,Canada,Montreal,2018,7.73,,18.89,97.5454545,,98.11111
 Region of the Americas,CAN,Canada,Montreal,2019,7.3,,16.89,97.9,,97.5555556,Government of Canada,"1 General Population Exposure, Large Urban Area, Commercial, 1 General Population Exposure, Large Urban Area, Industrial, 6 General Population Exposure, Large Urban Area, Residential, 1 Transportation Source Influenced, Large Urban Area, Industrial, 1 Transportation Source Influenced, Large Urban Area, Residential",2022,,,
 Region of the Americas,CAN,Canada,Morrisburg,2013,7,,,98,,,National Air Pollution Surveillance Network.,NA,2016,,,
 Region of the Americas,CAN,Canada,Mount Pearl,2013,6,,,98,,,National Air Pollution Surveillance Network.,NA,2016,,,
-Region of the Americas,CAN,Canada,Mount Pearl,2015,3.9,,2.82,95.61643836,,100,"Newfoundland and Labrador Department of Municipal Affairs and Environment
+Region of the Americas,CAN,Canada,Mount Pearl,2015,3.9,,2.82,95.61643836,,100,"Newfoundland and Labrador Department of Municipal Affairs and Environment
+
 ",1 Residential,2018,,,
 Region of the Americas,CAN,Canada,Mount Pearl,2016,5,,4,94,,100,Government of Canada,"1 General Population Exposure, Large Urban Area, Residential",2022,,,
 Region of the Americas,CAN,Canada,Mount Pearl,2017,5,,4,97,,100,Government of Canada,"1 General Population Exposure, Large Urban Area, Residential",2022,,,
@@ -3425,7 +3429,8 @@ Region of the Americas,CAN,Canada,St. Catharines,2017,7,,13,97,,99,Government of
 Region of the Americas,CAN,Canada,St. Catharines,2018,7,,11,99,,99,Government of Canada,"1 General Population Exposure, Large Urban Area, Residential",2022,,,
 Region of the Americas,CAN,Canada,St. Catharines,2019,7,,11,98,,99,Government of Canada,"1 General Population Exposure, Large Urban Area, Residential",2022,,,
 Region of the Americas,CAN,Canada,St. John's,2013,5,,,94,,,National Air Pollution Surveillance Network.,NA,2016,,,
-Region of the Americas,CAN,Canada,St. John's,2015,7.6,,9.02,93.97260274,,100,"Newfoundland and Labrador Department of Municipal Affairs and Environment
+Region of the Americas,CAN,Canada,St. John's,2015,7.6,,9.02,93.97260274,,100,"Newfoundland and Labrador Department of Municipal Affairs and Environment
+
 ",1 Residential,2018,,,
 Region of the Americas,CAN,Canada,St. John's,2016,6,,9,94,,99,Government of Canada,"1 General Population Exposure, Large Urban Area, Residential",2022,,,
 Region of the Americas,CAN,Canada,St. John's,2017,6,,13,87,,100,Government of Canada,"1 General Population Exposure, Large Urban Area, Residential",2022,,,
