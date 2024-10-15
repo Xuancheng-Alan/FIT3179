@@ -1,4 +1,4 @@
-﻿WHO Region,ISO3,WHO Country Name,City or Locality,Measurement Year,PM2.5 (μg/m3),PM10 (μg/m3),NO2 (μg/m3),PM25 temporal coverage (%),PM10 temporal coverage (%),NO2 temporal coverage (%),Reference,Number and type of monitoring stations,Version of the database,Status,,
+﻿WHO Region,ISO3,WHO Country Name,City or Locality,Year,PM2.5 (μg/m3),PM10,NO2 (μg/m3),PM25 temporal coverage (%),PM10 temporal coverage (%),NO2 temporal coverage (%),Reference,Number and type of monitoring stations,Version of the database,Status,,
 Eastern Mediterranean Region,AFG,Afghanistan,Kabul,2019,119.77,,,18,,,"U.S. Department of State, United States Environmental Protection Agency",NA,2022,,,
 European Region,ALB,Albania,Durres,2015,,17.65,26.63,,,83.96118721,European Environment Agency (downloaded in 2021),NA,2022,,,
 European Region,ALB,Albania,Durres,2016,14.32,24.56,24.78,,,87.93260474,European Environment Agency (downloaded in 2021),NA,2022,,,
